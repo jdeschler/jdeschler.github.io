@@ -1,0 +1,9 @@
+theme: jekyll-theme-primer
+title: CS 109 Final Project
+description: Project for Group 34 
+baseurl: 
+markdown: kramdown 
+kramdown:
+    math_engine: mathjax
+    input: GFM
+    syntax_highlighter: rouge
