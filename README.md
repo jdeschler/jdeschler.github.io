@@ -1,3 +1,5 @@
+Note: I based this website off a theme made by yaoyao-liu. It can be found [here](https://jekyll-themes.com/yaoyao-liu/minimal-light). Below is the README directly from that project.
+
 # The Minimal Light Theme
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
