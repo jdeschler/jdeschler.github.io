@@ -23,4 +23,3 @@ My research experience includes work with Professors Maya Sen (HKS), Justin de B
 
 {% include_relative _includes/teaching.md %}
 
-[//]: # ({% include_relative _includes/services.md %})
