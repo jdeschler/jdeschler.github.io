@@ -12,7 +12,7 @@ I am a joint JD/PhD student at Harvard Law School (expected graduation 2026, 1L 
 - **Judicial Decisionmaking:** factors that go into judicial decisions, tracking downstream effects, relationship between different court levels
 - **Empirical Legal Studies:** jurisdictional boundaries, judicial administration, models of American courts
 
-My research experience includes work with Professors Maya Sen (HKS), Justin de Benedictis Kessner (HKS), Larry Schwartztol (HLS), Jim Waldo (Harvard Computer Science/HKS) and the Harvard Environmental and Energy Law Program.
+My research experience includes work with Professors Maya Sen (HKS), Justin de Benedictis-Kessner (HKS), Larry Schwartztol (HLS), Jim Waldo (Harvard Computer Science/HKS) and the Harvard Environmental and Energy Law Program.
 
 {% include_relative _includes/publications.md %}
 
