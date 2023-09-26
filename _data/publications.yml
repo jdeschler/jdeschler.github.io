@@ -3,6 +3,7 @@ main:
   - title: "The New Machine Politics: Identifying Partisans Through Their Browsing History"
     authors:  John Deschler
     notes: Senior Thesis in Government and Computer Science, High Honors.
+    pdf: https://dash.harvard.edu/handle/1/37364617
 
 # example
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
