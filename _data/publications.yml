@@ -1,10 +1,15 @@
 main:
+  - title: "The Role of Judge Ideology in Strategic Retirements in U.S. Federal Courts"
+    authors: <strong>John Deschler<\strong> and Maya Sen
+    pdf: ./files/Papers/deschler-sen-strategic-retirement.pdf
+    conference: Journal of Law and Empirical Analysis (JLEA), 2024
 
   - title: "The New Machine Politics: Identifying Partisans Through Their Browsing History"
     authors:  John Deschler
     conference: Senior Thesis in Government and Computer Science
     notes: High Honors.
     pdf: https://dash.harvard.edu/handle/1/37364617
+    image: ./assets/img/strategic-retirements-teaser.png
 
 # example
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
