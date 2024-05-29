@@ -1,7 +1,7 @@
 main:
   - title: "The Role of Judge Ideology in Strategic Retirements in U.S. Federal Courts"
     authors: <strong>John Deschler</strong> and Maya Sen
-    pdf: ./files/Papers/deschler-sen-strategic-retirement.pdf
+    pdf: ./assets/files/Papers/deschler-sen-strategic-retirement.pdf
     conference: Journal of Law and Empirical Analysis (JLEA), 2024
     image: ./assets/img/strategic-retirements-teaser.png
 
