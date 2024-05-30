@@ -58,11 +58,18 @@
 
 {% for link in site.data.publications.workingpapers %}
 
-<li class="workingpaper">
+<li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title">{{ link.title }}</div>
+      {% if link.author %} 
       <div class="author">{{ link.authors }}</div>
-  </div>
+      {% endif %}
+      {% if link.conference %} 
+      <div class="periodical"><em>{{ link.conference }}</em>
+      {% endif %}
+      {% if link.notes %} 
+      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      {% endif %}  </div>
   <div class="links">
     {% if link.pdf %} 
     <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
