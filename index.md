@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a joint JD/PhD student at Harvard Law School (expected graduation 2026, 1L completed) and the Harvard Kennedy School (Public Policy program, Politics and Institutions Track). I also hold an AM from the Harvard Department of Statistics. I've always searched for intersections in my academic career; as an undergraduate, I combined computer and political science, and now, between HKS and Harvard Law, I hope to toe the line between political science and legal research. I am fascinated by the vast number of unanswered legal questions that political scientists have the tools to examine, and hope to use my training in both disciplines to further understand the American legal system. I aim to teach law from an empirical perspective, hoping to broaden the statistical knowledge of the legal profession on a larger scale.
+I am a joint JD/PhD candidate at Harvard Law School (expected graduation 2026, 1L completed) and the Harvard Kennedy School (Public Policy program, Politics and Institutions Track). I also hold an AM from the Harvard Department of Statistics. I've always searched for intersections in my academic career; as an undergraduate, I combined computer and political science, and now, between HKS and Harvard Law, I hope to toe the line between political science and legal research. I am fascinated by the vast number of unanswered legal questions that political scientists have the tools to examine, and hope to use my training in both disciplines to further understand the American legal system. I aim to teach law from an empirical perspective, hoping to broaden the statistical knowledge of the legal profession on a larger scale.
 
 {% include_relative _includes/publications.md %}
 
