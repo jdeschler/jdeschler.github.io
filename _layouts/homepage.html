@@ -66,6 +66,12 @@
         </a>  
         {% endif %}
 
+        {% if site.ssrn %}
+        <a style="margin: 0 5px 0 0" href="{{ site.ssrn }}" target = "_blank">
+          <i class="fa-solid fa-scroll" style="font-size:1.2rem"></i>
+        </a>  
+        {% endif %}
+
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}" target = "_blank">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
@@ -92,7 +98,7 @@
 
         {% if site.bluesky %}
         <a style="margin: 0 0 0 0" href="{{ site.bluesky }}" target = "_blank">
-          <i class="fas fa-cloud"></i>
+          <i class="fa-brands fa-square-bluesky"></i>
         </a>
         {% endif %}
         </div>

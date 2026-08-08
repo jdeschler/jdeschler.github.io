@@ -3,6 +3,8 @@
 <h4 style="margin:0 10px 0;">As a Graduate Student</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>Federal Courts, Prof. Vicki Jackson, Harvard Law. Teaching Fellow, Spring 2026.</li>
+  <li>Senior Thesis Writers Workshop. Harvard College, Government Department. Teaching Fellow. Fall 2025?Spring 2026.</li>
   <li>Constitutional Law, Prof. Vicki Jackson, Harvard Law. Teaching Fellow, Spring 2025.</li>
   <li>The Supreme Court, Law, and Public Policy, Prof. Maya Sen, HKS/Harvard College. Teaching Fellow, Fall 2024.</li>
   <li>Civil Procedure, Prof. D. James Greiner, Harvard Law. Teaching Fellow, Fall 2023.</li>

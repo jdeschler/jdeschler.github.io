@@ -5,10 +5,14 @@ main:
     conference: Journal of Law and Empirical Analysis (JLEA), 2024
     image: ./assets/img/strategic-retirements-teaser.png
 
-workingpapers:
-  - title: "Opposition Party Home State Senators and the Ideology of Judicial Appointments"
+  - title: "Playing the *Purcell* Game"
+    authors: <strong>John Deschler</strong>
+    conference: Harvard Civil Rights-Civil Liberties Law Review Forum (forthcoming 2026)
 
-  - title: "Retention Elections and Appointment Penalties: Steve Bullock’s appointees in Montana"
+workingpapers:
+  - title: "The Moderating Effect of the Blue Slip on the Federal Bench"
+
+  - title: "Enforcing the Representational Divide: *SFFA* and the Voting Rights Act"
 
 # example
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
