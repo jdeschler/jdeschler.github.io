@@ -5,14 +5,17 @@ main:
     conference: Journal of Law and Empirical Analysis (JLEA), 2024
     image: ./assets/img/strategic-retirements-teaser.png
 
-  - title: "Playing the *Purcell* Game"
+  - title: "Playing the <em>Purcell</em> Game"
     authors: <strong>John Deschler</strong>
     conference: Harvard Civil Rights-Civil Liberties Law Review Forum (forthcoming 2026)
 
 workingpapers:
+  - title: "Disentangling Race and Party: What <em>Callais</em> Asks and What Statistics Can Answer"
+  - authors: with Maya Sen and Justin Grimmer
+  
   - title: "The Moderating Effect of the Blue Slip on the Federal Bench"
 
-  - title: "Enforcing the Representational Divide: *SFFA* and the Voting Rights Act"
+  - title: "Enforcing the Representational Divide: <em>SFFA</em> and the Voting Rights Act"
 
 # example
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
