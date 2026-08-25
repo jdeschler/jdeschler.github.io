@@ -7,7 +7,9 @@ main:
 
   - title: "Playing the <em>Purcell</em> Game"
     authors: <strong>John Deschler</strong>
-    conference: Harvard Civil Rights-Civil Liberties Law Review Forum (forthcoming 2026)
+    conference: Harvard Civil Rights-Civil Liberties Law Review Forum, 2026
+    pdf: https://journals.law.harvard.edu/crcl/wp-content/uploads/sites/80/2026/08/Playing-the-Purcell-Game.pdf
+    image: ./assets/img/crcl-logo.png
 
 workingpapers:
   - title: "Disentangling Race and Party: What <em>Callais</em> Asks and What Statistics Can Answer"
